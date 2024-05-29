@@ -1,0 +1,20 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À¬È¯8‰×”Æû1J$791689aa-d781-4f95-9fef-625da322cc12
+z
+java:S2589Q"7Remove this expression which always evaluates to "true"(·…‹Ğ8‹Ø”Æû1J$0b0b2c86-f159-46fe-a71e-736e69a8b3c9
+T
+java:S2589L"7Remove this expression which always evaluates to "true"(·…‹Ğ8áÚ±Æû1
+z
+java:S2589g"7Remove this expression which always evaluates to "true"(·…‹Ğ8Ø”Æû1J$f267e0e5-a035-4b82-91f6-b3a1a2563bdf
+T
+java:S25894"7Remove this expression which always evaluates to "true"(·…‹Ğ8àÚ±Æû1
+z
+java:S25899"7Remove this expression which always evaluates to "true"(·…‹Ğ8ŠØ”Æû1J$cdfb20f4-765c-4a8f-9499-49de63e32128
+z
+java:S2589a"7Remove this expression which always evaluates to "true"(·…‹Ğ8‹Ø”Æû1J$2f0b9657-b5ea-4572-9bfa-b25645f22189
+r	java:S106*"+Replace this use of System.out by a logger.(¯¬‹üÿÿÿÿ8˜Ø”Æû1J$2382d334-010f-434a-ae8c-42148ee68983
+r	java:S106."+Replace this use of System.out by a logger.(óÅ”ˆúÿÿÿÿ8™Ø”Æû1J$c7067ba6-4810-48b5-ab32-3a5a1df41b2b
+}
+java:S1128";Remove this unused import 'jakarta.persistence.TypedQuery'.(•Çã8¤Ø”Æû1J$220132fa-2eba-43b5-84f1-f2ebdb2152ea
+[
+java:S1128">Remove this unused import 'jakarta.transaction.Transactional'.(ß–Ê³8ûÚ±Æû1

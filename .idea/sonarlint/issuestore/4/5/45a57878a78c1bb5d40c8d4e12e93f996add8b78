@@ -1,0 +1,8 @@
+
+Ÿ
+java:S1104"WMake userService a static final constant or non-public and provide accessors if needed.(Ëª¬âúÿÿÿÿ8þø§Æû1J$f9f9375e-cdd4-4c79-a0a7-d99fe00b3559
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù­Ù„8€ù§Æû1J$8b626b0b-4a0c-48a1-9922-babd5b354263
+n
+java:S1452"&Remove usage of generic wildcard type.(ÇÙ”®ûÿÿÿÿ8Œù§Æû1J$b25d96ac-bebc-43fb-b88f-4fe48d3f8af9
+G
+java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ8ÈÄÅÆû1

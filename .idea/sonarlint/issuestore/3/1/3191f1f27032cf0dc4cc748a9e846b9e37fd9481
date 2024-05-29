@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ¾ıØüÿÿÿÿ8ÛÇğÄû1J$8995dbe3-3733-49ec-9169-e4845216cf93
+o
+java:S3329$"'Use a dynamically-generated, random IV.(¼¶¶ôúÿÿÿÿ8ÍÉğÄû1J$4533ccbf-4835-4e28-93b4-6e99ddc8c164
+y
+java:S6437("6Revoke and change this password, as it is compromised.(İ½£Ï8àÉğÄû1J$11e5f57c-becf-4d64-a639-19a3faf45633
+`
+java:S2053("Make this salt unpredictable.(İ½£Ï8äÉğÄû1J$b8e6ec8f-7805-43da-8419-f88759098bcb
+s
+java:S5542+"+Use another cipher mode or disable padding.(ø¾¢çıÿÿÿÿ8òÉğÄû1J$78366c18-b0e9-4385-847f-3cae385bc3c6
+r	java:S1063"+Replace this use of System.out by a logger.(¸òÿüÿÿÿÿ8ûÉğÄû1J$97400a39-cf19-487c-8c9d-6048bc90cfe7
+y
+java:S6437A"6Revoke and change this password, as it is compromised.(İ½£Ï8†ÊğÄû1J$5aea0212-0bd7-4469-b823-f62d05bffba7
+`
+java:S2053A"Make this salt unpredictable.(İ½£Ï8‡ÊğÄû1J$bd9ee350-b09e-4e92-ad1b-aa3f314146ba
+s
+java:S5542D"+Use another cipher mode or disable padding.(ªŒğÚûÿÿÿÿ8ŒÊğÄû1J$04dcc4c6-bb4d-4b59-a3be-dbe64d063cf4
+m	java:S106J"+Replace this use of System.out by a logger.(Ñ¹éÜ8œÊğÄû1J$bb96d602-bfd3-4dbf-9f03-aeec88ad7c09
