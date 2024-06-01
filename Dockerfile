@@ -5,7 +5,7 @@ FROM adoptopenjdk/openjdk11:alpine-slim
 WORKDIR /app
 
 # Copy the packaged JAR file into the container at the specified path
-COPY target/ChatAppServer.jar /app/ChatAppServer.jar
+COPY target/ChatAppServer.jar /app
 
 # Expose the port the app runs on
 EXPOSE 8080
